@@ -8,8 +8,8 @@ Visão Geral
  
  
  # Objetivos da Prova de Conceito
-  1 - Validar a usabilidade da interface proposta para navegação e acessibilidade.
- 2- Testar o fluxo de usuário, desde o cadastro/login até a gestão de consultas e receitas
+ • - Validar a usabilidade da interface proposta para navegação e acessibilidade.
+ • - Testar o fluxo de usuário, desde o cadastro/login até a gestão de consultas e receitas
  3 - 
  4 -
 
